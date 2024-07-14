@@ -1,0 +1,3930 @@
+{
+    "full_count": 1099,
+    "records": [
+        {
+            "id": 3145,
+            "category_id": 0,
+            "release_date": 770428800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "3 Ninjas Kick Back",
+            "updated_at": "2024-06-20T04:48:49.422426Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3985,
+                7917
+            ],
+            "pubs": [
+                6109
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "3 Ninjas Kick Back follows 3 young ninja  brothers, Rocky, Colt and Tum-Tum as they assist an old Samurai in retrieving a prized dagger which has been stolen by his rival. The dagger, once given to th",
+            "image": {
+                "ID": 378189,
+                "Width": 640,
+                "Height": 907,
+                "File": "art_front/18/3145_ef2cb819-9b92-48a3-96b8-974b35c858b3.webp",
+                "BlurHash": "LPJ~vV+ZQl$_|oF3OEO@-BWnn,RQ",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 6400,
+                "CIB": 24000,
+                "New": 60000,
+                "ManualPrice": 6388,
+                "BoxPrice": 4888
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 84277,
+            "category_id": 5,
+            "release_date": null,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "4 Way Play Adapter",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                2042
+            ],
+            "pubs": [
+                2042
+            ],
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 337165,
+                "Width": 220,
+                "Height": 300,
+                "File": "art_front/18/7f0ff5df-2697-406f-88a9-ad080da5ea0c.webp",
+                "BlurHash": "LKHx$;-:?wIotSofRjt8IURiWAt9",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1549,
+                "CIB": 2200,
+                "New": 4199,
+                "ManualPrice": 550,
+                "BoxPrice": 880
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3587,
+            "category_id": 0,
+            "release_date": 662688000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "688 Attack Sub",
+            "updated_at": "2024-06-20T04:48:49.448019Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                2049
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                6
+            ],
+            "overview": "An early submarine game with ten missions which can be played with both American and Soviet attack submarines. The game focuses on realism with several stations the player can use (sonar, weapons, nav",
+            "image": {
+                "ID": 366133,
+                "Width": 640,
+                "Height": 904,
+                "File": "art_front/18/3587_b58546ce-924c-4934-8d2b-63204df915fb.webp",
+                "BlurHash": "LFFYidMx00tR7iof$yM{q?x]R.IT",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 799,
+                "CIB": 1406,
+                "New": 3500,
+                "ManualPrice": 675,
+                "BoxPrice": 300
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 84278,
+            "category_id": 2,
+            "release_date": 788918400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "6 Button Arcade Stick",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 344865,
+                "Width": 800,
+                "Height": 543,
+                "File": "art_front/18/063f218a-4b8b-4b8f-99c1-137f6a9c22c7.webp",
+                "BlurHash": "LJGa^A[p}n^RtmnjRPR,I-o}tRIo",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 4557,
+                "CIB": 7500,
+                "New": 18800,
+                "ManualPrice": 692,
+                "BoxPrice": 2398
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 4079,
+            "category_id": 0,
+            "release_date": 788918400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "6-Pak",
+            "updated_at": "2024-06-20T04:48:49.432984Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5775
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                1,
+                5,
+                7,
+                10,
+                11,
+                15
+            ],
+            "overview": "6-Pak is a compilation of six of Sega's most popular \"franchise\" games released in the early days of the Genesis. Included are the following:\r\n•Super Hang-On\r\n•The Revenge of Shinobi\r\n•Golden Axe\r\n•Co",
+            "image": {
+                "ID": 485087,
+                "Width": 1478,
+                "Height": 2076,
+                "File": "art_front/18/4079_04463b9d-0b7d-45f5-b673-a94a13e874ae.webp",
+                "BlurHash": "LKH,*S|3[=}X?ANfNLogIla0ohj]",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1241,
+                "CIB": 3590,
+                "New": 9995,
+                "ManualPrice": 994,
+                "BoxPrice": 1546
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115679,
+            "category_id": 0,
+            "release_date": 801964800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "6-Pak [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5775
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                1,
+                5,
+                11,
+                15
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357282,
+                "Width": 364,
+                "Height": 512,
+                "File": "art_front/18/209d7195-5629-4e4d-bcdb-75dd2f021ef4.webp",
+                "BlurHash": "LNH^0K}E]i]%-PWYNdogImVsozbI",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1500,
+                "CIB": 2849,
+                "New": 33914,
+                "ManualPrice": 450,
+                "BoxPrice": 499
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 101169,
+            "category_id": 5,
+            "release_date": null,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "8BitDo Genesis Retro Reciever",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 339601,
+                "Width": 1500,
+                "Height": 1500,
+                "File": "art_front/18/d976577b-a2eb-4b3a-a049-739408eeca9d.webp",
+                "BlurHash": "LkRC[6of~qofoffQayfQ?bj[D%ay",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 0,
+                "CIB": 0,
+                "New": 0,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 91050,
+            "category_id": 5,
+            "release_date": 1551312000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "8Bitdo M30 Gamepad [2.4g Wireless]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": [
+                13832
+            ],
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 344631,
+                "Width": 1000,
+                "Height": 1000,
+                "File": "art_front/18/4c025dff-183c-45e4-8c70-5e8af6e6ec19.webp",
+                "BlurHash": "LrNm=[M{-;M{?bxuRjj[~pj[IUof",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1500,
+                "CIB": 1998,
+                "New": 2499,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 84279,
+            "category_id": 5,
+            "release_date": 1568678400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "8-Button Arcade Pad",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                12877
+            ],
+            "pubs": [
+                12877
+            ],
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 337356,
+                "Width": 1203,
+                "Height": 1089,
+                "File": "art_front/18/06a2368f-8dbb-4c80-ae3b-13c87628ede2.webp",
+                "BlurHash": "LdIzrB;j^Qwy_3bGNGj[~qS4X8R*",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2200,
+                "CIB": 2499,
+                "New": 3218,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3885,
+            "category_id": 0,
+            "release_date": 811123200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "AAAHH!!! Real Monsters",
+            "updated_at": "2024-06-20T04:48:49.473033Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5393
+            ],
+            "pubs": [
+                7098
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "In this game, based on popular Nickelodeon comics, you control three monsters: Ickis, Oblina, and Krumm. The Gromble, a headmaster in monster school, needs you to perform the final test - monster Midt",
+            "image": {
+                "ID": 377751,
+                "Width": 1477,
+                "Height": 2081,
+                "File": "art_front/18/3885_11520b23-16b6-4c47-9987-9742b02920ab.webp",
+                "BlurHash": "LGIgJu|MHl].9QkDo_tP4gnNy4s$",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 773,
+                "CIB": 1998,
+                "New": 8956,
+                "ManualPrice": 660,
+                "BoxPrice": 1465
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115682,
+            "category_id": 0,
+            "release_date": 811123200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "AAAHH!!! Real Monsters [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5393
+            ],
+            "pubs": [
+                7098
+            ],
+            "genres": [
+                15
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357285,
+                "Width": 640,
+                "Height": 902,
+                "File": "art_front/18/01f9b861-ec04-43f0-9b1a-e4b655305772.webp",
+                "BlurHash": "LGIgGn|MHl].9QkDo_tP4gnNy4s$",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 800,
+                "CIB": 1911,
+                "New": 6001,
+                "ManualPrice": 478,
+                "BoxPrice": 1787
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3930,
+            "category_id": 0,
+            "release_date": 738547200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Action 52",
+            "updated_at": "2024-06-20T04:48:49.495544Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                187
+            ],
+            "pubs": [
+                8484
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "Get 52 \"New and Original\" exciting games for play on your Sega Genesis. Try to get Billy Bob out of the Dungeon where he is imprisoned, to save MARYLOU. Go along with the ACTION GAMEMASTER as he chang",
+            "image": {
+                "ID": 294094,
+                "Width": 585,
+                "Height": 800,
+                "File": "art_front/18/3930_0a89b7bc-01b5-4932-a62b-51a9234cf2c1.webp",
+                "BlurHash": "LUJ68A;h|{=x[AOsbHS#:=R%OSWU",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 5743,
+                "CIB": 26755,
+                "New": 22750,
+                "ManualPrice": 2400,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 138436,
+            "category_id": 5,
+            "release_date": null,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Action Replay",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 449411,
+                "Width": 1200,
+                "Height": 1600,
+                "File": "art_front/18/138436_6dfd120b-a52a-46ba-be3d-f26c8e8c2b22.webp",
+                "BlurHash": "LZI}hZ-CoLxa_MXSkCofM~NZfiWU",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 3994,
+                "CIB": 11995,
+                "New": 30000,
+                "ManualPrice": 2325,
+                "BoxPrice": 3719
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 84280,
+            "category_id": 5,
+            "release_date": 752112000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Activator",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": [
+                5775
+            ],
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 337431,
+                "Width": 512,
+                "Height": 323,
+                "File": "art_front/18/0ce157be-7099-4a6a-a203-4391c988b2cc.webp",
+                "BlurHash": "LqOWmNWB_4oJnhfk%Mf5~qofM{j[",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 6998,
+                "CIB": 9049,
+                "New": 22600,
+                "ManualPrice": 2262,
+                "BoxPrice": 3620
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3927,
+            "category_id": 0,
+            "release_date": 757411200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Addams Family",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7804
+            ],
+            "pubs": [
+                8368
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "The game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even",
+            "image": {
+                "ID": 282797,
+                "Width": 1533,
+                "Height": 2100,
+                "File": "art_front/18/3927_0a2da742-54ac-4e14-9b6d-caeb1c5e1b3e.webp",
+                "BlurHash": "LSIg}v+I+b+d~pM}E2ofxtM{Vst6",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1775,
+                "CIB": 4056,
+                "New": 10100,
+                "ManualPrice": 1027,
+                "BoxPrice": 1175
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115681,
+            "category_id": 0,
+            "release_date": 800582400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Adventures of Batman and Robin [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                1253
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                1,
+                31
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357284,
+                "Width": 256,
+                "Height": 360,
+                "File": "art_front/18/e223e96b-1ebf-4193-b26b-39fc8f4a2c3c.webp",
+                "BlurHash": "LMGR6y{f[[;yRiX8Rjt7T0V?s,M{",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 6048,
+                "CIB": 9807,
+                "New": 24500,
+                "ManualPrice": 2499,
+                "BoxPrice": 6000
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 8855,
+            "category_id": 0,
+            "release_date": 801964800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Adventures of Batman & Robin",
+            "updated_at": "2024-06-20T04:48:49.527206Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                1253
+            ],
+            "pubs": [
+                8528
+            ],
+            "genres": [
+                1,
+                8,
+                15
+            ],
+            "overview": "From the award winning animated TV series comes the most action-packed Batman adventure yet! The Dark Knight returns with Robin to battle the forces of evil. But wait... the iceman cometh!!! Mr. Freez",
+            "image": {
+                "ID": 450296,
+                "Width": 764,
+                "Height": 1050,
+                "File": "art_front/18/8855_3b3bc596-6e89-45fe-b7e1-774c4eb6b11a.webp",
+                "BlurHash": "LKHw}r{M;9;dIAXRRQ%3AfiuxUIV",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2499,
+                "CIB": 10248,
+                "New": 27789,
+                "ManualPrice": 3299,
+                "BoxPrice": 4800
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3929,
+            "category_id": 0,
+            "release_date": 757411200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Adventures of Mighty Max",
+            "updated_at": "2024-06-20T04:48:49.544665Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7804
+            ],
+            "pubs": [
+                7804
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "Max is a kid who possesses a magic cap that allows you to travel across different world and to save people who get in trouble in other dimensions. But his archenemy, the demonic Skull Master, has rece",
+            "image": {
+                "ID": 282792,
+                "Width": 640,
+                "Height": 876,
+                "File": "art_front/18/3929_873cca64-6fe6-4311-8c90-4c01f871e9c4.webp",
+                "BlurHash": "LLG8J_}Sv:,?nUNeSi%F-5oINLM{",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 797,
+                "CIB": 2328,
+                "New": 11999,
+                "ManualPrice": 800,
+                "BoxPrice": 675
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3928,
+            "category_id": 0,
+            "release_date": 725875200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Adventures of Rocky and Bullwinkle and Friends",
+            "updated_at": "2024-06-20T04:48:49.552242Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3133
+            ],
+            "pubs": [
+                145
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "The Adventures of Rocky and Bullwinkle is the video game adaptation of the 60's cartoon series staring Bullwinkle, a moose, and Rocky, a flying squirrel. The game plays out much like an episode of the",
+            "image": {
+                "ID": 282763,
+                "Width": 475,
+                "Height": 679,
+                "File": "art_front/18/3928_9b126ae1-6aeb-4071-875b-d17fa450d0c8.webp",
+                "BlurHash": "LbDmg?odE1fjt6WCNgj]Maoeoga#",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1597,
+                "CIB": 4997,
+                "New": 12500,
+                "ManualPrice": 1249,
+                "BoxPrice": 1199
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3933,
+            "category_id": 0,
+            "release_date": 694224000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Aerobiz",
+            "updated_at": "2024-06-20T04:48:49.599113Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3629
+            ],
+            "pubs": [
+                8318
+            ],
+            "genres": [
+                3,
+                6
+            ],
+            "overview": "You are the CEO of an airline company. Your goal is to become the most successful airline in the world by connecting all 22 cities with air routes, maintain a profit, and meet the required quota of pa",
+            "image": {
+                "ID": 294144,
+                "Width": 489,
+                "Height": 680,
+                "File": "art_front/18/3933_0782d300-68b2-485c-924a-371d6aac29cd.webp",
+                "BlurHash": "LME2#6kYJ:R:RWnhS%jXPENKxTof",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 3700,
+                "CIB": 11104,
+                "New": 27800,
+                "ManualPrice": 2921,
+                "BoxPrice": 999
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 423,
+            "category_id": 0,
+            "release_date": 733708800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Aerobiz Supersonic",
+            "updated_at": "2024-06-20T04:48:49.614138Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3629
+            ],
+            "pubs": [
+                8318
+            ],
+            "genres": [
+                3,
+                6
+            ],
+            "overview": "LEAD YOUR AIRLINE INTO THE FUTURE!\r\nIt’s the beginning of the 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it's up to you to make sure your airline is",
+            "image": {
+                "ID": 294206,
+                "Width": 900,
+                "Height": 1258,
+                "File": "art_front/18/423_d174378c-cdf0-42ce-80b5-4a162730c9b8.webp",
+                "BlurHash": "LRJ%Li{x+a+u~qNGNdM{tTIUjXae",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 5721,
+                "CIB": 20000,
+                "New": 37062,
+                "ManualPrice": 5999,
+                "BoxPrice": 4249
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3931,
+            "category_id": 0,
+            "release_date": 725846400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Aero the Acro-Bat",
+            "updated_at": "2024-06-20T04:48:49.574404Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3100
+            ],
+            "pubs": [
+                8336
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "You play as bat Aero, who have to stop the mad scientist Edgar Ektor, who is trying to rid the world of amusement and fun. So you jump through the circus-style levels, using different kinds of machine",
+            "image": {
+                "ID": 294217,
+                "Width": 725,
+                "Height": 1013,
+                "File": "art_front/18/3931_18a5f60a-9524-413c-be3a-12df6d79942c.webp",
+                "BlurHash": "LICrWkIV1Hxam+ofEjn$${xanjJA",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1027,
+                "CIB": 2352,
+                "New": 5900,
+                "ManualPrice": 1021,
+                "BoxPrice": 563
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3932,
+            "category_id": 0,
+            "release_date": 757382400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Aero the Acro-Bat 2",
+            "updated_at": "2024-06-20T04:48:49.58239Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3100
+            ],
+            "pubs": [
+                8336
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "In the sequel to Aero the Acro-Bat you have to defeat evil industrialist Edgar Ektor once again. He is back and again with bad ideas, so you - in the role of Aero - have to find and destroy him before",
+            "image": {
+                "ID": 294228,
+                "Width": 640,
+                "Height": 921,
+                "File": "art_front/18/3932_bfe6ea08-45fb-43a1-8b97-f30ad0bea23b.webp",
+                "BlurHash": "LEKK1iuj^++HeTx^kCM|_2D%VXS%",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 11753,
+                "CIB": 29629,
+                "New": 74100,
+                "ManualPrice": 19999,
+                "BoxPrice": 9900
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 422,
+            "category_id": 0,
+            "release_date": 638085600,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "After Burner II",
+            "updated_at": "2024-06-20T04:48:49.621877Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5775
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                13,
+                47
+            ],
+            "overview": "Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically ",
+            "image": {
+                "ID": 281105,
+                "Width": 921,
+                "Height": 1257,
+                "File": "art_front/18/422_a53a6f6c-94be-4462-aa65-e0dc4e0f6298.webp",
+                "BlurHash": "LODv+,Vs9ZkDPCR*i_oKmPkCR*e-",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1206,
+                "CIB": 1923,
+                "New": 142000,
+                "ManualPrice": 1186,
+                "BoxPrice": 1064
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3588,
+            "category_id": 0,
+            "release_date": 665280000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Air Buster",
+            "updated_at": "2024-06-20T04:48:49.566371Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3242
+            ],
+            "pubs": [
+                8366
+            ],
+            "genres": [
+                1,
+                47
+            ],
+            "overview": "This isn't a little skirmish in the air. This is a full-fledged, take-no-prisoners, hyper-drive war to the finish with three-dimensional screens and incredible sound effects. Simultaneous two-player a",
+            "image": {
+                "ID": 294169,
+                "Width": 1534,
+                "Height": 2100,
+                "File": "art_front/18/3588_d4171338-76bb-44f3-ab29-62554793b466.webp",
+                "BlurHash": "LeMGXHWF~MoIIWt5?8ob^zaf9hR.",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 4004,
+                "CIB": 11782,
+                "New": 21615,
+                "ManualPrice": 3245,
+                "BoxPrice": 6250
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 424,
+            "category_id": 0,
+            "release_date": 638928000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Air Diver",
+            "updated_at": "2024-06-20T04:48:49.652542Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                1356
+            ],
+            "pubs": [
+                8653
+            ],
+            "genres": [
+                8,
+                13
+            ],
+            "overview": "Your mission is to find and eliminate the enemy terrorists. They are extremely well armed, and central intelligence informs us that they may have the backing of several unfriendly extraterrestrial nat",
+            "image": {
+                "ID": 281384,
+                "Width": 918,
+                "Height": 1254,
+                "File": "art_front/18/424_ab445e16-68bc-44e8-b97c-af6e9e4c9575.webp",
+                "BlurHash": "LYIEUWkW4:ad%MR.Rjj=4WRjozs:",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 671,
+                "CIB": 1499,
+                "New": 3700,
+                "ManualPrice": 500,
+                "BoxPrice": 742
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 95932,
+            "category_id": 0,
+            "release_date": 1577318400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 10,
+            "title": "Akira",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                827
+            ],
+            "pubs": [
+                8364
+            ],
+            "genres": [
+                1,
+                2
+            ],
+            "overview": "Akira es una de las películas de animación japonesa más recordadas de todos los tiempos. Basado en el manga de Katsuhiro Otomo, el filme no solo impactó sobremanera a la isla asiática, pues también ge",
+            "image": {
+                "ID": 286568,
+                "Width": 503,
+                "Height": 699,
+                "File": "art_front/18/73686971-3b6f-4524-ba85-8914e39d1de3.webp",
+                "BlurHash": "LJA]:5bH0zafTds.rYjZMeWCxsWC",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 115634,
+            "category_id": 0,
+            "release_date": 752976000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Aladdin [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7129
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                15
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357237,
+                "Width": 372,
+                "Height": 512,
+                "File": "art_front/18/6e8564bf-089b-48dc-9f0a-65f2f5df323f.webp",
+                "BlurHash": "LQK[b:{|Qn;}5?nPxZoIiMjE%LWV",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1499,
+                "CIB": 1784,
+                "New": 4500,
+                "ManualPrice": 446,
+                "BoxPrice": 795
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3934,
+            "category_id": 0,
+            "release_date": 788918400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 6,
+            "title": "Aladdin II (SNES Capcom Port)",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "Aladdin II is an unlicensed Sega Mega Drive (Genesis) game. It is an attempt at porting the SNES version of Aladdin (developed and published by Capcom) to Sega's console. Mega Drive consumers were not",
+            "image": {
+                "ID": 282803,
+                "Width": 492,
+                "Height": 678,
+                "File": "art_front/18/3934_466a6b10-0c92-464c-831b-c5f4908cf5d2.webp",
+                "BlurHash": "LcN[:d*{viRV9.oaxAb[+tKQRPot",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 74719,
+            "category_id": 0,
+            "release_date": 1618790400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 4,
+            "title": "Aladdin [Legacy Cartridge Collection iam8bit]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": [
+                12730
+            ],
+            "genres": [
+                1,
+                2,
+                15
+            ],
+            "overview": "Limited Edition of 4500*\r\nBrand-New Playable Genesis-Compatible Cartridge*\r\nTranslucent Ruby Red and Ultra Limited Purple Gem Glow Cartridges**\r\nNostalgic Clamshell Packaging w/ Premium Foil and Gloss",
+            "image": {
+                "ID": 286639,
+                "Width": 768,
+                "Height": 768,
+                "File": "art_front/18/723427c6-3b31-4aa6-a3d9-1e85d146bd1c.webp",
+                "BlurHash": "LkLzy~xu?bjFXSofMxRj_NWCoff+",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2390,
+                "CIB": 4971,
+                "New": 12429,
+                "ManualPrice": 1243,
+                "BoxPrice": 1988
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 2127,
+            "category_id": 0,
+            "release_date": 619056000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Alex Kidd in the Enchanted Castle",
+            "updated_at": "2024-06-20T04:48:49.667834Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5787
+            ],
+            "pubs": [
+                8528
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "Alex Kidd in the Enchanted Castle is a 1989 Genesis side-scrolling platformer video game developed by Sega R&D2 and released by Sega of America in the USA on August 14, 1989.\r\n\r\nBASH! BIFF! POW! Alex ",
+            "image": {
+                "ID": 450350,
+                "Width": 587,
+                "Height": 800,
+                "File": "art_front/18/2127_a2296be0-8326-4ebf-a1fb-a861e6411097.webp",
+                "BlurHash": "LOH-ijnMkqI.~q9~x[W=5qIv%L$j",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1100,
+                "CIB": 2668,
+                "New": 27000,
+                "ManualPrice": 950,
+                "BoxPrice": 898
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 33910,
+            "category_id": 0,
+            "release_date": 718675200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Alien 3",
+            "updated_at": "2024-06-20T04:48:49.681699Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5196
+            ],
+            "pubs": [
+                8401
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "Alien³ is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboa",
+            "image": {
+                "ID": 384095,
+                "Width": 1532,
+                "Height": 2094,
+                "File": "art_front/18/8650e795-16fd-42de-9ff6-40c2c836c961.webp",
+                "BlurHash": "L55#:{NO$yR+ApxAD+xt~VNz%GR-",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1205,
+                "CIB": 3037,
+                "New": 7600,
+                "ManualPrice": 1309,
+                "BoxPrice": 799
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 2439,
+            "category_id": 0,
+            "release_date": 812505600,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 7,
+            "title": "Alien Soldier",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6848
+            ],
+            "pubs": [
+                8528
+            ],
+            "genres": [
+                1,
+                15,
+                47
+            ],
+            "overview": "Alien Solider is a 1995 Genesis side-scrolling run and gun platformer video game developed by Treasure and released by Sega of America in the USA on October 1, 1995 on the Sega Channel only.\n\nIn the y",
+            "image": {
+                "ID": 485047,
+                "Width": 580,
+                "Height": 800,
+                "File": "art_front/18/2439_79fcddc3-1c4e-4b1b-9503-b5ba39404c45.webp",
+                "BlurHash": "LGO-Q3Dr=MDoN4OGxGxV#%vy1Qi_",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2200,
+                "CIB": 4200,
+                "New": 3399,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3935,
+            "category_id": 0,
+            "release_date": 680313600,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Alien Storm",
+            "updated_at": "2024-06-20T04:48:49.709957Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5780
+            ],
+            "pubs": [
+                8528
+            ],
+            "genres": [
+                1,
+                10
+            ],
+            "overview": "Shape-changing alien scum take over your city. Fry the slimy horrors and smash their bid for global conquest. Blast into action with ray guns, flame throwers, power-whips, and more! But watch your ste",
+            "image": {
+                "ID": 282906,
+                "Width": 1460,
+                "Height": 2068,
+                "File": "art_front/18/3935_b0877d8c-83d8-4d17-ab2a-90014758df36.webp",
+                "BlurHash": "LMFz]9X-13#+%hkDjFNa5RaK$2Nx",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1800,
+                "CIB": 5815,
+                "New": 19995,
+                "ManualPrice": 1998,
+                "BoxPrice": 2187
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3936,
+            "category_id": 0,
+            "release_date": 702604800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Alisia Dragoon",
+            "updated_at": "2024-06-20T04:48:49.720946Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                2515,
+                2522
+            ],
+            "pubs": [
+                8528
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "The pace is intense. Enemies come at Alisia from everywhere. And nowhere. Battle hordes of crazed barbarians, mow down mobs of poisonous centipedes, and slay squadrons of winged gargoyels. Blast enemi",
+            "image": {
+                "ID": 282861,
+                "Width": 910,
+                "Height": 1249,
+                "File": "art_front/18/3936_fb01e0ba-bd55-494b-97cc-dde76a803772.webp",
+                "BlurHash": "LCHUqEA10PS]%hNfaP%I4mQ-0Mxa",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 5858,
+                "CIB": 12500,
+                "New": 31300,
+                "ManualPrice": 4594,
+                "BoxPrice": 4067
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 114,
+            "category_id": 0,
+            "release_date": 619056000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Altered Beast",
+            "updated_at": "2024-06-20T04:48:49.745573Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5787
+            ],
+            "pubs": [
+                8528
+            ],
+            "genres": [
+                1,
+                10,
+                15
+            ],
+            "overview": "Altered Beast is a 1989 Genesis side-scrolling beat 'em up platformer video game developed by Sega R&D2 and released by Sega of America in the USA on August 14, 1989.\r\n\r\nThe player is in control of a ",
+            "image": {
+                "ID": 383777,
+                "Width": 1524,
+                "Height": 2097,
+                "File": "art_front/18/114_df195a97-6f63-4a52-bf24-90c4e91de470.webp",
+                "BlurHash": "LVGR0Es:,mWE}jsm?FR--:ayRiR+",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1099,
+                "CIB": 2714,
+                "New": 9100,
+                "ManualPrice": 1200,
+                "BoxPrice": 935
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 1621,
+            "category_id": 0,
+            "release_date": 701424000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "American Gladiators",
+            "updated_at": "2024-06-20T04:48:49.753009Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3162
+            ],
+            "pubs": [
+                2578
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "American Gladiators is licensed from the popular TV show of the same name. It features a series of events testing players' strength, speed and skill against a trained team of ten 'Gladiators', five ma",
+            "image": {
+                "ID": 282169,
+                "Width": 656,
+                "Height": 917,
+                "File": "art_front/18/1621_c83dc4b9-a527-42a1-a4a4-c7ad53d8023b.webp",
+                "BlurHash": "LVJ7wIt7ACjZ^*a}o#WV0fWCVYa#",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 999,
+                "CIB": 2997,
+                "New": 4999,
+                "ManualPrice": 1032,
+                "BoxPrice": 646
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 84281,
+            "category_id": 1,
+            "release_date": 1553472000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Analogue Mega SG",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 341015,
+                "Width": 520,
+                "Height": 364,
+                "File": "art_front/18/420ba0bb-3828-4518-b5d2-82455d67ff5d.webp",
+                "BlurHash": "LyMtaOj[~qofM{t7t7Rj~qt7RjWB",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 42114,
+                "CIB": 44568,
+                "New": 59815,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3937,
+            "category_id": 0,
+            "release_date": 694224000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Andre Agassi Tennis",
+            "updated_at": "2024-06-20T04:48:49.760395Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6567
+            ],
+            "pubs": [
+                8556
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "A game endorsed by the American player who stunned the tennis world in the early 90s with his \"Image is everything\" looks, sporting long hair, earrings and colorful shirts, Andre Agassi Tennis include",
+            "image": {
+                "ID": 330450,
+                "Width": 1455,
+                "Height": 2016,
+                "File": "art_front/18/3937_2b030ced-ae6e-446f-bde6-3e8eecd3e737.webp",
+                "BlurHash": "LFEyl0^+IVtM~WRO9cM|DmIot+Ia",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 501,
+                "CIB": 1050,
+                "New": 2600,
+                "ManualPrice": 495,
+                "BoxPrice": 420
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3886,
+            "category_id": 0,
+            "release_date": 783648000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Animaniacs",
+            "updated_at": "2024-06-20T04:48:49.771111Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3644
+            ],
+            "pubs": [
+                3644
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "Animaniacs is a video game that is based on the hit animated series of the same name. Unlike regular platform games, the player usually runs from the enemies rather than fighting them. Characters incl",
+            "image": {
+                "ID": 282761,
+                "Width": 911,
+                "Height": 1274,
+                "File": "art_front/18/3886_62339132-0a00-464f-a3ef-81aba3ace5d2.webp",
+                "BlurHash": "LTJ7%q{dv5[-tBt2ShWA5D$y-NIu",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 748,
+                "CIB": 1998,
+                "New": 7001,
+                "ManualPrice": 1271,
+                "BoxPrice": 1290
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115680,
+            "category_id": 0,
+            "release_date": 783907200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Animaniacs [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3644
+            ],
+            "pubs": [
+                3644
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357283,
+                "Width": 368,
+                "Height": 512,
+                "File": "art_front/18/e563d0fe-6140-4755-88d4-461f7f6e738e.webp",
+                "BlurHash": "LVIgD{|=vh]~%4tQNeRj5T$#-OIX",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1336,
+                "CIB": 2672,
+                "New": 6700,
+                "ManualPrice": 668,
+                "BoxPrice": 1069
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3938,
+            "category_id": 0,
+            "release_date": 707382000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Aquatic Games Starring James Pond and the Aquabats",
+            "updated_at": "2024-06-20T04:48:49.800862Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                4244
+            ],
+            "pubs": [
+                2042
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "James Pond is on a break from baddie bashing to compete in the Aquatic Games in Basselona. Play with Pond's fishy friends as they vie for the coveted Goldfish medal in 10 wet and wacky events. Practic",
+            "image": {
+                "ID": 282874,
+                "Width": 1334,
+                "Height": 1796,
+                "File": "art_front/18/3938_0add0583-91a9-4b6b-844e-94ac6bd0f3f8.webp",
+                "BlurHash": "LSE.eCW-14WG%OxCOmbu5=SL,-WD",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 799,
+                "CIB": 2498,
+                "New": 7775,
+                "ManualPrice": 800,
+                "BoxPrice": 249
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3939,
+            "category_id": 0,
+            "release_date": 838710000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arcade Classics",
+            "updated_at": "2024-06-20T04:48:49.826936Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                539
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "Arcade Classics offers three classic Atari titles. It includes the following games:\r\n\r\nMissile Command\r\nCentipede\r\nPong (Ultrapong: both Pong and Hockey)\r\n\r\nAll games have selectable difficulty option",
+            "image": {
+                "ID": 282908,
+                "Width": 1436,
+                "Height": 2017,
+                "File": "art_front/18/3939_053c1065-1d9f-40b1-9ede-4f71a6f5926a.webp",
+                "BlurHash": "LLG87r}F+H^R%NRQIpxuaPIoaJVs",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 772,
+                "CIB": 1168,
+                "New": 3118,
+                "ManualPrice": 500,
+                "BoxPrice": 747
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115683,
+            "category_id": 0,
+            "release_date": 838684800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arcade Classics [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                539
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                1
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357286,
+                "Width": 367,
+                "Height": 512,
+                "File": "art_front/18/57257d96-9844-43b2-80cb-e62ad5c47a8f.webp",
+                "BlurHash": "LRH^kr}G+b^QxtRkIqxbnpM{i^aK",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1111,
+                "CIB": 1120,
+                "New": 2800,
+                "ManualPrice": 280,
+                "BoxPrice": 448
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 84282,
+            "category_id": 2,
+            "release_date": 788918400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arcade Power Stick",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": [
+                5775
+            ],
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 340636,
+                "Width": 360,
+                "Height": 212,
+                "File": "art_front/18/a265559a-0a61-4c8b-875d-6d781621d04b.webp",
+                "BlurHash": "LlJb5Haz-;%L~qIURjt7?bIURjt7",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2499,
+                "CIB": 8300,
+                "New": 12200,
+                "ManualPrice": 1650,
+                "BoxPrice": 3221
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3940,
+            "category_id": 0,
+            "release_date": 694252800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arch Rivals: The Arcade Game",
+            "updated_at": "2024-06-20T04:48:49.835912Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                4210
+            ],
+            "pubs": [
+                8368
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "Arch Rivals is a conversion of the hit Midway arcade game. It's a 2-on-2 basketball game that stands out from the crowd for its \"no rules\" approach. Fouling out other players is more than accepted, it",
+            "image": {
+                "ID": 282877,
+                "Width": 1533,
+                "Height": 2100,
+                "File": "art_front/18/3940_92020ad0-8a96-4e56-b62a-84194118b8c1.webp",
+                "BlurHash": "LPHxH2xYMwM|0WjZRks+.6NHnNbI",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 864,
+                "CIB": 1648,
+                "New": 4100,
+                "ManualPrice": 900,
+                "BoxPrice": 598
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3941,
+            "category_id": 0,
+            "release_date": 673056000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arcus Odyssey",
+            "updated_at": "2024-06-20T04:48:49.849Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7322
+            ],
+            "pubs": [
+                5464
+            ],
+            "genres": [
+                1,
+                4
+            ],
+            "overview": "Tonight is the night of the thousand years full moon! At this moment, four brave warriors are rushing up a steep, narrow mountain pass to an ancient ruined shrine. There, they will battle the Dark Lor",
+            "image": {
+                "ID": 282844,
+                "Width": 1418,
+                "Height": 2016,
+                "File": "art_front/18/3941_0a4dcf05-78be-48ce-bc4c-91d43e5def28.webp",
+                "BlurHash": "LMDvT9R-I:of04j[a1oM.jsnX9j[",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 7209,
+                "CIB": 18299,
+                "New": 45700,
+                "ManualPrice": 5003,
+                "BoxPrice": 5700
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 98194,
+            "category_id": 0,
+            "release_date": 1577836800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 4,
+            "title": "Arkagis Revolution",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5899
+            ],
+            "pubs": [
+                12333,
+                13418
+            ],
+            "genres": [
+                1,
+                47
+            ],
+            "overview": "Arkagis Revolution is an arcade-style top-down shooter for Sega Genesis/Mega Drive with mode 7 style rotation! Hop into the ship and save Arkagis with the 68000 heart on fire! Speedrunners rejoice, we",
+            "image": {
+                "ID": 453034,
+                "Width": 481,
+                "Height": 704,
+                "File": "art_front/18/26eab882-3089-47aa-b04b-7f193477befe.webp",
+                "BlurHash": "LJJZA0-QEo}[Uwx]%JM|3Wz;MyxU",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2999,
+                "CIB": 4500,
+                "New": 4500,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3942,
+            "category_id": 0,
+            "release_date": 599616000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arnold Palmer Tournament Golf",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5775
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "Tee off by yourself or play 18 holes with a friend. Besides the One and Two Player modes there's also a practice mode, match play (head to head), and a full-blown international tournament, where you'l",
+            "image": {
+                "ID": 286944,
+                "Width": 1537,
+                "Height": 2100,
+                "File": "art_front/18/3942_863e8841-e06b-4a85-80b2-9fdbd3fe8d8d.webp",
+                "BlurHash": "LQIW7i1g5,R%?bnmb[i{3ow{+cX7",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 451,
+                "CIB": 999,
+                "New": 7923,
+                "ManualPrice": 390,
+                "BoxPrice": 676
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 98220,
+            "category_id": 0,
+            "release_date": 631152000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arnold Palmer Tournament Golf [Sega Classic]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5775
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "Tee off! It's time to play in one of the greatest golfing competitions ever: The Arnold Palmer Tournament. And he's not going to make it easy. With only 16 players allowed to compete, you'll have to p",
+            "image": {
+                "ID": 289674,
+                "Width": 400,
+                "Height": 562,
+                "File": "art_front/18/2285565d-a8bf-4084-b419-cd050ce01019.webp",
+                "BlurHash": "LND[-EEL5T$ft:xGwbS$K8s;-USO",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 3589,
+            "category_id": 0,
+            "release_date": 631180800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Arrow Flash",
+            "updated_at": "2024-06-20T04:48:49.89918Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3055
+            ],
+            "pubs": [
+                8369
+            ],
+            "genres": [
+                47
+            ],
+            "overview": "Arrow Flash is a side-scrolling space shooter. The player controls a female spaceship pilot who is sent on a mission into deep space to save the Earth from an assault by an evil dragon from another ga",
+            "image": {
+                "ID": 282687,
+                "Width": 498,
+                "Height": 700,
+                "File": "art_front/18/3589_02e5dd90-9de6-41d6-9601-e6e352acf30d.webp",
+                "BlurHash": "LKDk$7RQRPoLF^n#R.oe|soInOt6",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 3808,
+                "CIB": 11995,
+                "New": 30000,
+                "ManualPrice": 6514,
+                "BoxPrice": 2900
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 426,
+            "category_id": 0,
+            "release_date": 662688000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Art Alive",
+            "updated_at": "2024-06-20T04:48:49.911653Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7257
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                21
+            ],
+            "overview": "Surprise yourself and impress your friends with astonishing graphics you can make in minutes. Animate them and your TV screen becomes a lively work of art. All with just your television and the 16-bit",
+            "image": {
+                "ID": 287594,
+                "Width": 905,
+                "Height": 1274,
+                "File": "art_front/18/426_f854ed30-573a-4ab7-b88b-31f63e7b9ee8.webp",
+                "BlurHash": "LKKxI^-;y=wJ^iNZNts.62$*MxN^",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 657,
+                "CIB": 950,
+                "New": 2400,
+                "ManualPrice": 699,
+                "BoxPrice": 380
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3943,
+            "category_id": 0,
+            "release_date": 758419200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Art of Fighting",
+            "updated_at": "2024-06-20T04:48:49.930267Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6027
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                10
+            ],
+            "overview": "Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as ",
+            "image": {
+                "ID": 298813,
+                "Width": 1539,
+                "Height": 2100,
+                "File": "art_front/18/3943_39bd5306-5009-419c-ab10-e049df8cc883.webp",
+                "BlurHash": "LOHT8$}9$f^JE,kCwdXR-ORRNwn~",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 943,
+                "CIB": 3999,
+                "New": 12600,
+                "ManualPrice": 1089,
+                "BoxPrice": 998
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 107939,
+            "category_id": 2,
+            "release_date": null,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "asciiPad SG-6",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 335211,
+                "Width": 300,
+                "Height": 300,
+                "File": "art_front/18/5b50bf8d-2af2-437d-8913-45f597cf3214.webp",
+                "BlurHash": "LuP?:iof-;ofxuayj[ay~qayIUay",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 699,
+                "CIB": 1398,
+                "New": 3635,
+                "ManualPrice": 350,
+                "BoxPrice": 559
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 84283,
+            "category_id": 5,
+            "release_date": null,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Asciiware Fighter Stick SG-6",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                510
+            ],
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 342675,
+                "Width": 1280,
+                "Height": 960,
+                "File": "art_front/18/cff0c0e8-e0ca-4f5a-8a93-ba57ce235ed3.webp",
+                "BlurHash": "LpKe1RRi_3oe-;ayj[WB~qt7WBt7",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2053,
+                "CIB": 2520,
+                "New": 6300,
+                "ManualPrice": 630,
+                "BoxPrice": 1008
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 58989,
+            "category_id": 0,
+            "release_date": 1425628800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 4,
+            "title": "ASCII Wars: Limited Edition",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": [
+                2707
+            ],
+            "genres": [
+                8
+            ],
+            "overview": "There lives an evil warlord from a dimension where all matter is made up of bad ASCII art. He conquered all available land, but was not satisfied. In order to claim more land, he sent an inter-dimensi",
+            "image": {
+                "ID": 286471,
+                "Width": 369,
+                "Height": 512,
+                "File": "art_front/18/caf32c88-7fe5-4f9d-90a2-7a8bbdc0af00.webp",
+                "BlurHash": "LaH,*m}A],=IF|eorrs:=ER+NyR*",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 135759,
+            "category_id": 0,
+            "release_date": 1685404800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 2,
+            "title": "Astebros",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                13572
+            ],
+            "pubs": [
+                13572
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": null,
+            "image": {
+                "ID": 440162,
+                "Width": 823,
+                "Height": 1171,
+                "File": "art_front/18/18b65517-9c79-46de-bcff-1ac9aa76fb95.webp",
+                "BlurHash": "L7B:BN;4DNO?}EOX^4-SVDTd=gV[",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 8098,
+                "CIB": 8098,
+                "New": 9999,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3944,
+            "category_id": 0,
+            "release_date": 770446800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Asterix and the Great Rescue",
+            "updated_at": "2024-06-20T04:48:49.955753Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                1359
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "Wham!!! Biff!!! Pow!!! Asterix is back in another highly exciting adventure. Yet again Asterix and his good friend Obelix are thrown into an amazing adventure, when they find out that Getafix and Dogm",
+            "image": {
+                "ID": 282918,
+                "Width": 1533,
+                "Height": 2100,
+                "File": "art_front/18/3944_4be9d0c3-1d08-43e3-9293-827b610bcdb8.webp",
+                "BlurHash": "LCKS|e*L*-qu8br=IwvfM3-Mb_tQ",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 827,
+                "CIB": 1698,
+                "New": 4200,
+                "ManualPrice": 737,
+                "BoxPrice": 651
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3590,
+            "category_id": 0,
+            "release_date": 646815600,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Atomic Robo-Kid",
+            "updated_at": "2024-06-20T04:48:49.96677Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7028
+            ],
+            "pubs": [
+                7028
+            ],
+            "genres": [
+                1,
+                2,
+                47
+            ],
+            "overview": "A space colony, known as Terra-12, is bombarded with cosmic radiation, mutating all transplanted life. Plants, animals, etc. On top of this, giant alien invaders, known only as \"Governors,\" invade, de",
+            "image": {
+                "ID": 284133,
+                "Width": 681,
+                "Height": 951,
+                "File": "art_front/18/3590_e07f3a74-0f42-4d6b-b57f-37eb1123a218.webp",
+                "BlurHash": "LVOcO3Nb{0#,C8jFrqoc:+wIK5W=",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1281,
+                "CIB": 5212,
+                "New": 13000,
+                "ManualPrice": 1499,
+                "BoxPrice": 1995
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3591,
+            "category_id": 0,
+            "release_date": 694252800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Atomic Runner",
+            "updated_at": "2024-06-20T04:48:49.993745Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                1584
+            ],
+            "pubs": [
+                1584
+            ],
+            "genres": [
+                1,
+                15,
+                47
+            ],
+            "overview": "The player takes the role of Chelnov, a coal miner who miraculously survives the malfunction and explosion of a nuclear power plant. Chelnov's body gains superhuman abilities due to the massive amount",
+            "image": {
+                "ID": 282697,
+                "Width": 1533,
+                "Height": 2100,
+                "File": "art_front/18/3591_6ca33d99-d54b-4024-8ba9-14e71ed45848.webp",
+                "BlurHash": "LUF=agWB9sNHx[s+%3of_4n}s*W=",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 3145,
+                "CIB": 10139,
+                "New": 16326,
+                "ManualPrice": 4607,
+                "BoxPrice": 3747
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3945,
+            "category_id": 0,
+            "release_date": 757382400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "ATP Tour Championship Tennis",
+            "updated_at": "2024-06-20T04:48:50.005096Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5939
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "There are three game modes: Exhibition match, Exhibition Tournament (where the player competes in a 32-player tournament), ATP Senior Tour Event (where the player chooses one of the retired players an",
+            "image": {
+                "ID": 282922,
+                "Width": 336,
+                "Height": 500,
+                "File": "art_front/18/3945_b224b425-bd8a-424d-aca1-52c1f26cb136.webp",
+                "BlurHash": "LONS]K@Y@[HY05x[.6NF~XIT9Fxv",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 734,
+                "CIB": 1300,
+                "New": 2399,
+                "ManualPrice": 325,
+                "BoxPrice": 520
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115688,
+            "category_id": 0,
+            "release_date": 757382400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "ATP Tour Championship Tennis [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5939
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                11
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357291,
+                "Width": 320,
+                "Height": 442,
+                "File": "art_front/18/30f0ac73-605c-437c-b1f6-f7c272b43260.webp",
+                "BlurHash": "LOM?xW*|}Z8w4qtQ-:Rj~WIU9Fxb",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 769,
+                "CIB": 1538,
+                "New": 3997,
+                "ManualPrice": 385,
+                "BoxPrice": 615
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 101108,
+            "category_id": 5,
+            "release_date": 778723200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Aura Interactor Game Vest",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 343351,
+                "Width": 1200,
+                "Height": 630,
+                "File": "art_front/18/23bdab60-1de8-4e9b-8267-a23a693febf5.webp",
+                "BlurHash": "LpJa}{M{~qoMog%MbGV[%Mj[RjjZ",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 0,
+                "CIB": 0,
+                "New": 0,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 107933,
+            "category_id": 5,
+            "release_date": null,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Auto RF Switch",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 341107,
+                "Width": 1024,
+                "Height": 768,
+                "File": "art_front/18/8113f6ed-be2e-402b-baa5-92ce1a88cfc0.webp",
+                "BlurHash": "LXMG|w00?a%M.8D%RkxtRkV@t7t6",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 599,
+                "CIB": 1198,
+                "New": 3115,
+                "ManualPrice": 300,
+                "BoxPrice": 479
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3592,
+            "category_id": 0,
+            "release_date": 752112000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Awesome Possum Kicks Dr. Machino's Butt",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6591
+            ],
+            "pubs": [
+                6591
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "In just a few years, mankind has succeeded in destroying the environment and endangering all living species. Under the guidance of the evil Dr. Machino, robotic machines were built to turn the Earth i",
+            "image": {
+                "ID": 282632,
+                "Width": 800,
+                "Height": 1136,
+                "File": "art_front/18/3592_9c1b1c00-6efd-4ffd-9195-ff349b9d138c.webp",
+                "BlurHash": "LQIfiQ]m}t=eNFxGS#oyo0aeRjjF",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1265,
+                "CIB": 3546,
+                "New": 8900,
+                "ManualPrice": 1632,
+                "BoxPrice": 1017
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 14068,
+            "category_id": 0,
+            "release_date": 711262800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Ayrton Senna's Super Monaco GP II",
+            "updated_at": "2024-06-20T04:48:50.036676Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5775
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                7
+            ],
+            "overview": "If Formula One is your sport, you'll appreciate the attention to detail and realistic physics of SUPER MONACO GP II. Speed down the straightaways and around the hairpin turns of the 16 most demanding ",
+            "image": {
+                "ID": 284955,
+                "Width": 1434,
+                "Height": 1998,
+                "File": "art_front/18/890fa24b-d65a-4fe0-a7a5-9af39933653a.webp",
+                "BlurHash": "LDFX^m_K584?tK=tM{9vP9t6${i~",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1132,
+                "CIB": 2360,
+                "New": 5900,
+                "ManualPrice": 675,
+                "BoxPrice": 699
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 106840,
+            "category_id": 0,
+            "release_date": 757382400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 3,
+            "title": "Baby's Day Out",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                2929
+            ],
+            "pubs": [
+                8516
+            ],
+            "genres": [
+                2,
+                5
+            ],
+            "overview": "Near-complete version of a canceled game based on the movie of the same name. You play a guardian angel who must guide the baby away from a dangerous robber.",
+            "image": {
+                "ID": 330463,
+                "Width": 248,
+                "Height": 330,
+                "File": "art_front/18/253d1f91-ce52-4667-a206-01138395bd89.webp",
+                "BlurHash": "LQLy1S+yrF$kGvjEVss,}9RjRRM{",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 19349,
+            "category_id": 0,
+            "release_date": 662688000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Back to the Future Part III",
+            "updated_at": "2024-06-20T04:48:50.070236Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5196
+            ],
+            "pubs": [
+                3120,
+                8401
+            ],
+            "genres": [
+                1,
+                8
+            ],
+            "overview": "From the wild, wild West: Good guys, bad guys, street cleaning showdowns, a pretty lady in distress and a time machine the does 88MPH. Too bad the nearest gas station is decades down the road. Your on",
+            "image": {
+                "ID": 285165,
+                "Width": 483,
+                "Height": 679,
+                "File": "art_front/18/a6aaa903-e677-4158-bced-1d76a3de731e.webp",
+                "BlurHash": "LMJ7N}.S0NQ.K5tQt9r=9@IAMdtR",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 3460,
+                "CIB": 10000,
+                "New": 25000,
+                "ManualPrice": 2500,
+                "BoxPrice": 1947
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 427,
+            "category_id": 0,
+            "release_date": 757382400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Ballz 3D: Fighting at Its Ballziest",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                4999
+            ],
+            "pubs": [
+                165
+            ],
+            "genres": [
+                10
+            ],
+            "overview": "Ballz is a fighting game, but what makes it uniqe is the fact that your player is made out of balls. The game has a detailed 3D engine with a fixed camera. The game plays like your normal beat 'em up ",
+            "image": {
+                "ID": 281349,
+                "Width": 640,
+                "Height": 877,
+                "File": "art_front/18/427_b4a60763-95d5-4381-a3dc-3c5abaf62bba.webp",
+                "BlurHash": "LGLVmdOF|1xaTt{Oa2ADy}zsEg$|",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 718,
+                "CIB": 1081,
+                "New": 2700,
+                "ManualPrice": 684,
+                "BoxPrice": 399
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 90345,
+            "category_id": 0,
+            "release_date": 1420070400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 4,
+            "title": "Barbarian",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": null,
+            "pubs": null,
+            "genres": [
+                10
+            ],
+            "overview": null,
+            "image": {
+                "ID": 286683,
+                "Width": 1691,
+                "Height": 2368,
+                "File": "art_front/18/24d0fe44-65f3-4087-8124-9c0cf2950468.webp",
+                "BlurHash": "LGIphl0g0#xZ-;IqaKxDGa$$n4n%",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 3966,
+            "category_id": 0,
+            "release_date": 694252800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Barbie Super Model",
+            "updated_at": "2024-06-20T04:48:50.191968Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6444
+            ],
+            "pubs": [
+                8516
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "Help Barbie become a great fashion model! This is an arcade game with many different activities to participate in.\r\n\r\nIn each level, Barbie starts by going left to right with forced scrolling. She has",
+            "image": {
+                "ID": 282881,
+                "Width": 359,
+                "Height": 500,
+                "File": "art_front/18/3966_6942ee9d-b889-415a-80e7-7716c8750a1b.webp",
+                "BlurHash": "LHM#VG}B{2^j?0X8EfI=tRMxR~j;",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 619,
+                "CIB": 1356,
+                "New": 1796,
+                "ManualPrice": 382,
+                "BoxPrice": 612
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115685,
+            "category_id": 0,
+            "release_date": 694224000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Barbie Super Model [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6444
+            ],
+            "pubs": [
+                2934
+            ],
+            "genres": [
+                1
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357288,
+                "Width": 319,
+                "Height": 446,
+                "File": "art_front/18/d6aa510e-af1b-4e17-b410-aeadae8fbacf.webp",
+                "BlurHash": "LLM$44NWa*-;?dxHadM|tlR;oes+",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 385,
+                "CIB": 1075,
+                "New": 1998,
+                "ManualPrice": 269,
+                "BoxPrice": 430
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3967,
+            "category_id": 0,
+            "release_date": 770428800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Barkley Shut Up and Jam!",
+            "updated_at": "2024-06-20T04:48:50.269356Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                164
+            ],
+            "pubs": [
+                165
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "In the game you play street basketball two-on-two with your friends on with computer. So there are no referees, no fouls, and no shot clock, but the teams called by the names of cities such as Phoenix",
+            "image": {
+                "ID": 282851,
+                "Width": 1435,
+                "Height": 1988,
+                "File": "art_front/18/3967_eca53844-805d-4066-87f0-bfa240feaef6.webp",
+                "BlurHash": "LHGQIc}[{Liw.8TJIAM|Tdr=MxVs",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 581,
+                "CIB": 1152,
+                "New": 3995,
+                "ManualPrice": 547,
+                "BoxPrice": 443
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3968,
+            "category_id": 0,
+            "release_date": 788947200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Barkley Shut Up and Jam! 2",
+            "updated_at": "2024-06-20T04:48:50.256679Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                164
+            ],
+            "pubs": [
+                165
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "This game is a sequel to Barkley: Shut Up and Jam!. It is a street basketball game which means no referees to enforce fouls and no shot clock to force a player to take a shot. The game features an exh",
+            "image": {
+                "ID": 282925,
+                "Width": 1447,
+                "Height": 1986,
+                "File": "art_front/18/3968_ff5643d8-8fe7-4b5e-9ba7-6542d55f8791.webp",
+                "BlurHash": "LQIXED~BHuML-nNNf4oIaGMxtSbd",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 800,
+                "CIB": 1641,
+                "New": 4100,
+                "ManualPrice": 852,
+                "BoxPrice": 349
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115692,
+            "category_id": 0,
+            "release_date": 760320000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Barkley Shut-up and Jam! [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                164
+            ],
+            "pubs": [
+                164
+            ],
+            "genres": [
+                11
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357295,
+                "Width": 359,
+                "Height": 512,
+                "File": "art_front/18/71d25a03-acb7-4f77-9322-ac84ac4ed7f5.webp",
+                "BlurHash": "LEFXF^~C{eVs.SXnDjIVTxr=IAR5",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1099,
+                "CIB": 2198,
+                "New": 5715,
+                "ManualPrice": 550,
+                "BoxPrice": 878
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 428,
+            "category_id": 0,
+            "release_date": 725875200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Barney's Hide & Seek Game",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5393
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": null,
+            "overview": "Barney is a friendly dinosaur who likes playing with children. One day Barney and his little friends decide to play hide-and-seek game. Barney's task is to find the children and the presents they have",
+            "image": {
+                "ID": 281370,
+                "Width": 894,
+                "Height": 1261,
+                "File": "art_front/18/428_0903b666-ad0f-45e5-b925-67da558d8995.webp",
+                "BlurHash": "LTJQZ%10A0M--BS}V|NGK8$*RPo@",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 525,
+                "CIB": 1199,
+                "New": 3836,
+                "ManualPrice": 449,
+                "BoxPrice": 480
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 106841,
+            "category_id": 0,
+            "release_date": 829872000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Barver Battle Saga: The Space Fighter",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7303
+            ],
+            "pubs": [
+                1202
+            ],
+            "genres": [
+                2,
+                4,
+                5
+            ],
+            "overview": "Tim and his friends are on a mission to discover the location of the four plates that can be used to activate an ancient space station buried deep in the Earth that can be used to wipe out the populat",
+            "image": {
+                "ID": 330466,
+                "Width": 153,
+                "Height": 224,
+                "File": "art_front/18/9cdc799c-3418-4e93-b534-ce231f41f01f.webp",
+                "BlurHash": "LIHxf{xuD?tR~X%Z%NN3I9xtWGsk",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 3969,
+            "category_id": 0,
+            "release_date": 788947200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Bass Masters Classic",
+            "updated_at": "2024-06-20T04:48:50.290221Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                827
+            ],
+            "pubs": [
+                8364
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "The player starts off choosing an angler. Then the player can either go to the bait shop, practice pond, or start in the tournament. In the bait shop, choices of baits, lines, rods, reels, fish finder",
+            "image": {
+                "ID": 284140,
+                "Width": 573,
+                "Height": 791,
+                "File": "art_front/18/3969_b66029b8-1e68-4f8d-9aed-88ff65a04b5b.webp",
+                "BlurHash": "LRG8=d{~;3:*kGX7XSsRXTMyWBsk",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 700,
+                "CIB": 1142,
+                "New": 5000,
+                "ManualPrice": 275,
+                "BoxPrice": 969
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 429,
+            "category_id": 0,
+            "release_date": 836204400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Bass Masters Classic: Pro Edition",
+            "updated_at": "2024-06-20T04:48:50.297606Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                827
+            ],
+            "pubs": [
+                8364
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "Don't miss your chance to compete in the most realistic fishing game for the Genesis. Featuring pro bass anglers George Cochran, Shaw Grigsby Jr., Gary Klein, Tom Mann Jr., Dee Thomas and Kevin VanDam",
+            "image": {
+                "ID": 281393,
+                "Width": 918,
+                "Height": 1290,
+                "File": "art_front/18/429_87640688-a9f0-4675-b830-7979a128665a.webp",
+                "BlurHash": "LVO3FE@a*fmR~pE2t9M{Mxxus;IV",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 697,
+                "CIB": 1399,
+                "New": 8200,
+                "ManualPrice": 488,
+                "BoxPrice": 560
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 430,
+            "category_id": 0,
+            "release_date": 810432000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Batman Forever",
+            "updated_at": "2024-06-20T04:48:50.322134Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                156,
+                5196
+            ],
+            "pubs": [
+                159
+            ],
+            "genres": [
+                1,
+                10,
+                15
+            ],
+            "overview": "The Real Game Begins! BATMAN FOREVER! Brace yourself for endless action with BATMAN FOREVER! BATMAN and ROBIN blast into GOTHAM CITY in a duo-player fighting game! Armed with over 125 incredible attac",
+            "image": {
+                "ID": 281351,
+                "Width": 1539,
+                "Height": 2099,
+                "File": "art_front/18/430_279837d5-66ae-4755-979c-e9b49c31a80d.webp",
+                "BlurHash": "LPEU=U}Z;N=ao#ozWUS4IUadxZWC",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 600,
+                "CIB": 1397,
+                "New": 10850,
+                "ManualPrice": 700,
+                "BoxPrice": 599
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3972,
+            "category_id": 0,
+            "release_date": 718416000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Batman Returns",
+            "updated_at": "2024-06-20T04:48:50.342596Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3985
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "The Genesis title based on Batman Returns is a platform game in which the Dark Knight must traverse five action-filled levels on his way to confront the Penguin.\r\n\r\nAreas include the rooftops of Gotha",
+            "image": {
+                "ID": 282841,
+                "Width": 480,
+                "Height": 680,
+                "File": "art_front/18/3972_c1e4949b-5458-415b-a7c0-a63d3a471293.webp",
+                "BlurHash": "L88zu,WB4.ni%%xUNHNHk?M|s8ba",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1077,
+                "CIB": 2435,
+                "New": 29675,
+                "ManualPrice": 707,
+                "BoxPrice": 793
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3971,
+            "category_id": 0,
+            "release_date": 721008000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Batman: Revenge of the Joker",
+            "updated_at": "2024-06-20T04:48:50.362842Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5523
+            ],
+            "pubs": [
+                8336
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "The Joker lives again in SunSoft's sequel to their NES original. The Joker has somehow managed to escape from Arkham Asylum once again, and Batman must fight him across seven stages to restore peace t",
+            "image": {
+                "ID": 422701,
+                "Width": 1282,
+                "Height": 1759,
+                "File": "art_front/18/3971_e71c6933-a047-4a82-bdf6-799da352bfc2.webp",
+                "BlurHash": "LPIrAyE3acs-~lxp?St5^|W?-+oa",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 4051,
+                "CIB": 12326,
+                "New": 30960,
+                "ManualPrice": 5135,
+                "BoxPrice": 2550
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3970,
+            "category_id": 0,
+            "release_date": 678067200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Batman: The Video Game",
+            "updated_at": "2024-06-20T04:48:50.308514Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6362
+            ],
+            "pubs": [
+                8543
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "The Genesis version of Batman: The Video Game follows closely the plot from the 1989 movie.\r\n\r\nThe game consists in six stages, four of side-scrolling platform action and two side-scrolling shooter on",
+            "image": {
+                "ID": 450109,
+                "Width": 1534,
+                "Height": 2068,
+                "File": "art_front/18/3970_5ec23135-6197-40b2-b58b-e6e18600bcbe.webp",
+                "BlurHash": "L9B_@uER1KkC,V$xENt69vS6-nRj",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 4234,
+                "CIB": 11495,
+                "New": 28700,
+                "ManualPrice": 3425,
+                "BoxPrice": 2795
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3594,
+            "category_id": 0,
+            "release_date": 662716800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Battlemaster",
+            "updated_at": "2024-06-20T04:48:50.39782Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                4982
+            ],
+            "pubs": [
+                8401
+            ],
+            "genres": [
+                4
+            ],
+            "overview": "The player decides which race they want to play (Human, Orc, Dwarf or Elf) each with their own strengths and weaknesses. It is then a matter of clearing out areas of opponents and finding items to enh",
+            "image": {
+                "ID": 282700,
+                "Width": 483,
+                "Height": 680,
+                "File": "art_front/18/3594_ca0af261-940d-4508-b941-4fa5928b8286.webp",
+                "BlurHash": "LgKJxANHRjkC~Jo2ozj?%uflV@n%",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1513,
+                "CIB": 3995,
+                "New": 10000,
+                "ManualPrice": 999,
+                "BoxPrice": 1223
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3593,
+            "category_id": 0,
+            "release_date": 631180800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Battle Squadron",
+            "updated_at": "2024-06-20T04:48:50.40516Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3213
+            ],
+            "pubs": [
+                2042
+            ],
+            "genres": [
+                47
+            ],
+            "overview": "Battle Squadron is a classic arcade style shooter for 1 or 2 players, and a spiritual successor to Hybris. You take a space ship and fly it over a high tech hostile surface, and then into an organic s",
+            "image": {
+                "ID": 282636,
+                "Width": 1541,
+                "Height": 2095,
+                "File": "art_front/18/3593_8730a7dd-df74-43f8-8636-e432acef3026.webp",
+                "BlurHash": "LCBfFS$x1NRpxnxt%0$$o#i^-kWY",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1725,
+                "CIB": 4788,
+                "New": 14900,
+                "ManualPrice": 1564,
+                "BoxPrice": 1872
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 431,
+            "category_id": 0,
+            "release_date": 788860800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "BattleTech: A Game of Armored Combat",
+            "updated_at": "2024-06-20T04:48:50.418214Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                3985
+            ],
+            "pubs": [
+                8365
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "'MECH WAR!!\r\n\r\nThe 31st century is a brutal and violent place. The galaxy is racked by a devastating war waged with gigantic 75-ton BattleMechs teeming with the most ruinous weapons that science can c",
+            "image": {
+                "ID": 281398,
+                "Width": 1532,
+                "Height": 2100,
+                "File": "art_front/18/431_e3c941ef-3e23-443a-a1c3-fd5ac2016209.webp",
+                "BlurHash": "LdHvbm}Z$*xGW:bca}bHOpR*n%ni",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1748,
+                "CIB": 4017,
+                "New": 9438,
+                "ManualPrice": 1137,
+                "BoxPrice": 902
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 707,
+            "category_id": 0,
+            "release_date": 663840000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Battletoads",
+            "updated_at": "2024-06-20T04:48:50.425612Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5349
+            ],
+            "pubs": [
+                8403
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "After her defeat by the Galactic Corporation at the battle of Canis Major, the evil Dark Queen and her renegade space troops retreat to the outer reaches of the universe, hiding out in dark spaces bet",
+            "image": {
+                "ID": 282038,
+                "Width": 1529,
+                "Height": 2099,
+                "File": "art_front/18/707_cf4c41bf-aefb-4b41-b394-9509245785d1.webp",
+                "BlurHash": "LmI:wDoMi{a#2ZbtR.ay,Yr[axjZ",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 3464,
+                "CIB": 8330,
+                "New": 20251,
+                "ManualPrice": 2749,
+                "BoxPrice": 2495
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115635,
+            "category_id": 0,
+            "release_date": 663811200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Battletoads [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5349
+            ],
+            "pubs": [
+                6834
+            ],
+            "genres": [
+                1,
+                31
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357238,
+                "Width": 373,
+                "Height": 512,
+                "File": "art_front/18/9e827e00-bbba-4753-8a08-480d8755cbd6.webp",
+                "BlurHash": "LlIpu0oMi{a}2ZkUR.ay,Xr[axjY",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 9000,
+                "CIB": 9093,
+                "New": 22700,
+                "ManualPrice": 2273,
+                "BoxPrice": 3636
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 993,
+            "category_id": 0,
+            "release_date": 738892800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Battletoads & Double Dragon",
+            "updated_at": "2024-06-20T04:48:50.446581Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5349
+            ],
+            "pubs": [
+                8403
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "When a battlecruiser the size of a city and called the Colossus smashes out of the moon, its laser cannon glowing menacingly, you can bet it ain't gonna be makin' no social calls... You can bet it's g",
+            "image": {
+                "ID": 367883,
+                "Width": 1422,
+                "Height": 1996,
+                "File": "art_front/18/993_07b6012d-8a15-4deb-80f0-16ba7d14dcaa.webp",
+                "BlurHash": "LRIEOr{g+I^O-gWYOakCF#bCv}VZ",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1937,
+                "CIB": 5350,
+                "New": 13400,
+                "ManualPrice": 2350,
+                "BoxPrice": 1629
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115689,
+            "category_id": 0,
+            "release_date": 738892800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Battletoads & Double Dragon [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5349
+            ],
+            "pubs": [
+                6834
+            ],
+            "genres": [
+                31
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357292,
+                "Width": 362,
+                "Height": 512,
+                "File": "art_front/18/f7bbed59-86cc-4ee7-aaa5-7d94bd918c17.webp",
+                "BlurHash": "LMHnsi{fz;^e-|WFNiogF7X2v|VG",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 6998,
+                "CIB": 11950,
+                "New": 29900,
+                "ManualPrice": 2996,
+                "BoxPrice": 4794
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 30767,
+            "category_id": 0,
+            "release_date": 754732800,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 10,
+            "title": "Beastball",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                4244
+            ],
+            "pubs": [
+                8561
+            ],
+            "genres": [
+                1
+            ],
+            "overview": "Beastball is an unreleased Sega Mega Drive sports game. It is a console adaption of the 1993 Amiga title Brutal Football/Crazy Football (ported to the Amiga CD32 in 1994, IBM PC in 1995 and to the Ata",
+            "image": {
+                "ID": 285494,
+                "Width": 685,
+                "Height": 935,
+                "File": "art_front/18/e69a9c7a-744a-4f0d-a269-10af10e855a1.webp",
+                "BlurHash": "LLIoX}}Z^6-C-7bwogJB|HNGJ8Ip",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 3595,
+            "category_id": 0,
+            "release_date": 686559600,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Beast Wrestler",
+            "updated_at": "2024-06-20T04:48:50.455778Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5524
+            ],
+            "pubs": [
+                8369
+            ],
+            "genres": [
+                10
+            ],
+            "overview": "War of the Manmade Monsters!\r\n\r\nLife Science industries of the future have created the world's greatest sports warriors. Averaging 25 feet tall and weighing several tons each, these gigantic wrestlers",
+            "image": {
+                "ID": 282637,
+                "Width": 501,
+                "Height": 700,
+                "File": "art_front/18/3595_7530f4d2-b1b9-40ea-a0fc-1f258060ab51.webp",
+                "BlurHash": "L87UxDx]NGR*xc%Ms.V@*I%MbbWB",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 1697,
+                "CIB": 5788,
+                "New": 9900,
+                "ManualPrice": 1905,
+                "BoxPrice": 3499
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 115632,
+            "category_id": 0,
+            "release_date": 757382400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Beavis and Butthead [Cardboard Box]",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5315
+            ],
+            "pubs": [
+                7098
+            ],
+            "genres": [
+                1,
+                2
+            ],
+            "overview": null,
+            "image": {
+                "ID": 357236,
+                "Width": 368,
+                "Height": 512,
+                "File": "art_front/18/10ebf907-313b-4096-ba3a-c1563ce37844.webp",
+                "BlurHash": "LTG*Gr,]Zr}?xpR:WFbbM#NZ${Rk",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 2499,
+                "CIB": 3332,
+                "New": 8300,
+                "ManualPrice": 833,
+                "BoxPrice": 1333
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 19336,
+            "category_id": 0,
+            "release_date": 1148256000,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 4,
+            "title": "Beggar Prince",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                1023
+            ],
+            "pubs": [
+                7865
+            ],
+            "genres": [
+                4
+            ],
+            "overview": "The snobby, selfish prince of Shatt Kingdom unknowingly aids a great threat to his world after he switches places with a beggar who looks just like him. Wanting only to escape the daily drudgery of hi",
+            "image": {
+                "ID": 285146,
+                "Width": 1441,
+                "Height": 2026,
+                "File": "art_front/18/f3a17ade-d4dc-4595-9340-a5ed2edcf2c7.webp",
+                "BlurHash": "LGCim$?Y0L9b%$xvVrRPIpRoxFt2",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 9900,
+                "CIB": 12025,
+                "New": 8452,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 4328,
+            "category_id": 0,
+            "release_date": 725846400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Berenstain Bears' Camping Adventure",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                5393
+            ],
+            "pubs": [
+                5775
+            ],
+            "genres": [
+                1,
+                15
+            ],
+            "overview": "You can play as either Sister or Brother Bear. From the beginning, you can access four different levels. Once you complete them, you'll unlock the final stage. The bears can jump, throw rocks at enemi",
+            "image": {
+                "ID": 283852,
+                "Width": 640,
+                "Height": 883,
+                "File": "art_front/18/4328_6c772265-8be7-45e5-995c-ad63e6541fc4.webp",
+                "BlurHash": "LGKK4W[JzWy_MKn+Oqx]0wv$xcX9",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 982,
+                "CIB": 1947,
+                "New": 11899,
+                "ManualPrice": 997,
+                "BoxPrice": 399
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3977,
+            "category_id": 0,
+            "release_date": 725846400,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Best of the Best: Championship Karate",
+            "updated_at": "2024-06-20T04:48:54.636311Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                2038
+            ],
+            "pubs": [
+                8436
+            ],
+            "genres": [
+                11
+            ],
+            "overview": "Best of the Best Championship Karate is a realistic fighting game. After you choose your fighter for his parameters (strength, stamina and resistance), you can choose from 55 different moves. You can ",
+            "image": {
+                "ID": 282904,
+                "Width": 716,
+                "Height": 1006,
+                "File": "art_front/18/3977_ed4f5127-3d51-4c40-86d1-35a450c099fd.webp",
+                "BlurHash": "LLHKhJ]k}X^4Q-W=oft89Zn4soja",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 810,
+                "CIB": 1998,
+                "New": 5000,
+                "ManualPrice": 699,
+                "BoxPrice": 800
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 3596,
+            "category_id": 0,
+            "release_date": 795225600,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Beyond Oasis",
+            "updated_at": "2024-06-20T04:48:50.501962Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                352
+            ],
+            "pubs": [
+                8528
+            ],
+            "genres": [
+                1,
+                2
+            ],
+            "overview": "Beyond Oasis is a 1995 Genesis action-adventure video game developed by Ancient and released by Sega of America in the USA on March 15, 1995.\r\n\r\nOn the mystical island of Oasis, Prince Ali embarks on ",
+            "image": {
+                "ID": 450405,
+                "Width": 1533,
+                "Height": 2100,
+                "File": "art_front/18/3596_08a03954-6d5f-4590-aac2-89826581da64.webp",
+                "BlurHash": "LdDtbr}X=e=aNIbbn$ofnzaLWCR*",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 5804,
+                "CIB": 17764,
+                "New": 50608,
+                "ManualPrice": 3511,
+                "BoxPrice": 2871
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 21834,
+            "category_id": 0,
+            "release_date": 788947200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 10,
+            "title": "Beyond Zero Tolerance",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                6561
+            ],
+            "pubs": [
+                165
+            ],
+            "genres": [
+                8
+            ],
+            "overview": "Beyond Zero Tolerance (or Zero Tolerance 2) is a videogame developed by Technopop for the Sega Mega DriFor those not in the know, Zero Tolerance was one of the very few 3D FPS shooters released for th",
+            "image": {
+                "ID": 285150,
+                "Width": 1456,
+                "Height": 1259,
+                "File": "art_front/18/717b569b-7a72-492e-9fc2-4dbaac890022.webp",
+                "BlurHash": "LIBM@}OPWC$,~oM_R%t8m.WEWVV[",
+                "Attribution": null
+            },
+            "price": null,
+            "has_vgpc": false
+        },
+        {
+            "id": 3978,
+            "category_id": 0,
+            "release_date": 788947200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 6,
+            "title": "Bible Adventures",
+            "updated_at": "2024-06-20T04:48:50.523836Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                7306
+            ],
+            "pubs": [
+                8487
+            ],
+            "genres": [
+                15
+            ],
+            "overview": "Three games in one cartridge! NOAH'S ARK: Help Noah fill the ark with animals before the big flood arrives. SAVE BABY MOSES: It's you against Pharaoh's soldiers as you try to carry baby Moses safely d",
+            "image": {
+                "ID": 282947,
+                "Width": 215,
+                "Height": 304,
+                "File": "art_front/18/3978_13303311-0064-4f8b-8eaa-051953948443.webp",
+                "BlurHash": "LVKK~SRjgjtl0ht5VuRks~W=RURP",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 4650,
+                "CIB": 31158,
+                "New": 77900,
+                "ManualPrice": 7790,
+                "BoxPrice": 12464
+            },
+            "has_vgpc": true
+        },
+        {
+            "id": 107062,
+            "category_id": 5,
+            "release_date": 1676419200,
+            "platform_id": 18,
+            "game_specific": null,
+            "parent_id": null,
+            "country_id": 1,
+            "release_type": 0,
+            "title": "Big 6 Wireless Arcade Pad",
+            "updated_at": "2024-06-20T04:42:11.794198Z",
+            "item_state": 1,
+            "metascore": null,
+            "devs": [
+                12877
+            ],
+            "pubs": [
+                12877
+            ],
+            "genres": null,
+            "overview": null,
+            "image": {
+                "ID": 339636,
+                "Width": 1200,
+                "Height": 1600,
+                "File": "art_front/18/b47f050a-3ca6-4b89-9d1c-fac4a526e7c0.webp",
+                "BlurHash": "LMExhP]$;Kw{~At8Vsn$%yJ-NabF",
+                "Attribution": null
+            },
+            "price": {
+                "Loose": 0,
+                "CIB": 0,
+                "New": 0,
+                "ManualPrice": 0,
+                "BoxPrice": 0
+            },
+            "has_vgpc": true
+        }
+    ],
+    "exe_time": 0.033821191
+}
