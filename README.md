@@ -28,4 +28,4 @@ This project is designed at a small level to demo and ETL project. I like retro 
     ```bash
     pip install -r requirements.txt
     ```
-- You are good to go! Run the job!
+- You are good to go! Run the job! You will see an excel spreadsheet in the root folder when the job is done.
